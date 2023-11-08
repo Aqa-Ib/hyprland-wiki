@@ -5,7 +5,7 @@ You can choose between the proprietary [Nvidia drivers](https://wiki.archlinux.o
 
 You may want to use the proprietary Nvidia drivers in some cases, for example: if you have a new Nvidia GPU model, if you want more performance, if you want to play video games, if you need a wider feature set (for example, better power consumption on recent GPUs), etc. However, keep in mind that if the proprietary Nvidia drivers do not work properly on your computer, the Nouveau driver might work fine while not having as much features or performance. For [older cards](https://wiki.archlinux.org/title/NVIDIA#Unsupported_drivers), in order to use Hyprland, you will probably need to use the Nouveau driver which actively supports them.
 
-Below are some tips to try to make the proprietary Nvidia driver work with Hyprland properly:
+Below are some tips to try to make the current proprietary Nvidia driver work with Hyprland properly:
 
 ## Hyprland Nvidia Patch (Arch only) (Unofficial)
 ```sh
